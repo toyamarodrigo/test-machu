@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: machu-picchu-checker
+    env: node
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_VERSION
+        value: 16.0.0 

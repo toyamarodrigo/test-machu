@@ -14,5 +14,17 @@
     "axios": "^1.6.7",
     "dotenv": "^16.4.1",
     "node-telegram-bot-api": "^0.64.0"
-  }
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/machu-picchu-checker.git"
+  },
+  "keywords": [
+    "machu-picchu",
+    "telegram-bot",
+    "availability-checker"
+  ],
+  "author": "",
+  "license": "ISC"
 } 
